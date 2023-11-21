@@ -1,8 +1,8 @@
 {
   "environment" : {
     "country" : "us",                                 // server country, like us = missionchief.com, eg.
-    "username" : "CHANGEME",                          // defines username as name OR e-mail address
-    "password" : "CHANGEME",                          // defines password for specific username
+    "username" : "Palomies-Sami",                          // defines username as name OR e-mail address
+    "password" : "keksi999",                          // defines password for specific username
   },
   "building" : {
     "hire" : {
